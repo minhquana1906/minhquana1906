@@ -30,6 +30,8 @@
       <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&&labelColor=282828">
       <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&&labelColor=282828">
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&&labelColor=282828">
+      <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=282828">
+      <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=282828">
   </div>
   
   <h3>Libraries & Frameworks</br></h3>
