@@ -4,7 +4,7 @@
 
 <div id="intro" align="left">
   <p> 🔭 I am currently a third-year student majoring in Computer Science with a focus on Data Science.</p>
-  <p> 🌱 I’m currently learning LangChain, RAG and fine-tuning for LLM</p>
+  <p> 🌱 I’m currently learning LangChain, RAG and fine-tuning for LLM.</p>
 </div>
 
 <!--
@@ -40,7 +40,6 @@
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=%23150458&labelColor=282828">
     <img alt="Scikit learn" src="https://img.shields.io/badge/scikit%20learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=%23F7931E&labelColor=282828">
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&&logo=circle&logoColor=11557c&labelColor=282828">
-    <img alt="Pytorch" src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=%23EE4C2C&labelColor=282828">
     <img alt="Streamlit" src="https://img.shields.io/badge/streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=%23FF4B4B&labelColor=282828">
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white&labelColor=282828"> 
     <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-%23005EB8?style=for-the-badge&logo=OpenTelemetry&logoColor=%23F7931E&labelColor=282828"> 
@@ -52,11 +51,9 @@
    <div align="center">
      <img alt="Mysql" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=%234479A1&labelColor=282828">
      <img alt="Postgresql" src="https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=282828">
-     <img alt="Oracle" src="https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=%23F80000&labelColor=282828">
-     <img alt="Apache Hive" src="https://img.shields.io/badge/apache%20hive-%23FDEE21?style=for-the-badge&logo=apachehive&logoColor=%23FDEE21&labelColor=282828">
-     <img alt="Elastic Search" src="https://img.shields.io/badge/elastic%20search-%23005571?style=for-the-badge&logo=elasticsearch&logoColor=%23005571&labelColor=282828">
-     <img alt="Prometheus" src="https://img.shields.io/badge/prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=%23E6522C&labelColor=282828">
      <img alt="Minio" src="https://img.shields.io/badge/minio-%23C72E49?style=for-the-badge&logo=minio&logoColor=%23C72E49&labelColor=282828">
+     <img alt="Apache Hive" src="https://img.shields.io/badge/apache%20hive-%23FDEE21?style=for-the-badge&logo=apachehive&logoColor=%23FDEE21&labelColor=282828">
+     <img alt="Prometheus" src="https://img.shields.io/badge/prometheus-%23E6522C?style=for-the-badge&logo=prometheus&logoColor=%23E6522C&labelColor=282828">
    </div>
    
   <h3>Software & Tools</br></h3>
@@ -67,9 +64,7 @@
     <img alt="NGINX" src="https://img.shields.io/badge/nginx-green?style=for-the-badge&logo=NGINX&logoColor=green&labelColor=282828">
     <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-red?style=for-the-badge&logo=jenkins&logoColor=%23D24939&labelColor=282828">
     <img alt="Grafana" src="https://img.shields.io/badge/grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=%23F46800&labelColor=282828">
-    <img alt="Kibana" src="https://img.shields.io/badge/kibana-%23005571?style=for-the-badge&logo=kibana&logoColor=%23005571&labelColor=282828">
-    <img alt="kafka" src="https://img.shields.io/badge/kafka-%23231F20?style=for-the-badge&logo=apache%20kafka&logoColor=white&labelColor=282828">
-    <img alt="Jaeger" src="https://img.shields.io/badge/jaeger-%2366CFE3?style=for-the-badge&logo=jaeger&logoColor=%2366CFE3&labelColor=282828">
+    <img alt="Kafka" src="https://img.shields.io/badge/kafka-%23231F20?style=for-the-badge&logo=apache%20kafka&logoColor=white&labelColor=282828">
     <img alt="Aiflow" src="https://img.shields.io/badge/Airflow-%23017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=282828">
      <img alt="Trino" src="https://img.shields.io/badge/Trino-%23DD00A1?style=for-the-badge&logo=Trino&logoColor=white&labelColor=282828">
     <img alt="Git" src="https://img.shields.io/badge/Git-f05134?style=for-the-badge&logo=git&logoColor=f05134&labelColor=282828">
@@ -85,3 +80,9 @@
   </a>
 </div>
 
+<!--
+    <img alt="Kibana" src="https://img.shields.io/badge/kibana-%23005571?style=for-the-badge&logo=kibana&logoColor=%23005571&labelColor=282828">
+     <img alt="Elastic Search" src="https://img.shields.io/badge/elastic%20search-%23005571?style=for-the-badge&logo=elasticsearch&logoColor=%23005571&labelColor=282828">
+    <img alt="Jaeger" src="https://img.shields.io/badge/jaeger-%2366CFE3?style=for-the-badge&logo=jaeger&logoColor=%2366CFE3&labelColor=282828">
+    <img alt="Pytorch" src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=%23EE4C2C&labelColor=282828">
+-->
