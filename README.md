@@ -24,14 +24,12 @@
 -->
 
 <div id="tech">
-  <h2>&#x1f4bb Tech Stack</br></h2>
+  <h2>Experienced in</br></h2>
   <h3>Languages</h3>
   <div align="center">
       <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&&labelColor=282828">
       <img alt="python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&&labelColor=282828">
       <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&&labelColor=282828">
-      <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=282828">
-      <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=282828">
   </div>
   
   <h3>Libraries & Frameworks</br></h3>
@@ -40,6 +38,7 @@
     <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=%23150458&labelColor=282828">
     <img alt="Scikit learn" src="https://img.shields.io/badge/scikit%20learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=%23F7931E&labelColor=282828">
     <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&&logo=circle&logoColor=11557c&labelColor=282828">
+    <img alt="Pytorch" src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=%23EE4C2C&labelColor=282828">
     <img alt="Streamlit" src="https://img.shields.io/badge/streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=%23FF4B4B&labelColor=282828">
     <img alt="Selenium" src="https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=Selenium&logoColor=white&labelColor=282828"> 
     <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-%23005EB8?style=for-the-badge&logo=OpenTelemetry&logoColor=%23F7931E&labelColor=282828"> 
@@ -84,5 +83,5 @@
     <img alt="Kibana" src="https://img.shields.io/badge/kibana-%23005571?style=for-the-badge&logo=kibana&logoColor=%23005571&labelColor=282828">
      <img alt="Elastic Search" src="https://img.shields.io/badge/elastic%20search-%23005571?style=for-the-badge&logo=elasticsearch&logoColor=%23005571&labelColor=282828">
     <img alt="Jaeger" src="https://img.shields.io/badge/jaeger-%2366CFE3?style=for-the-badge&logo=jaeger&logoColor=%2366CFE3&labelColor=282828">
-    <img alt="Pytorch" src="https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=%23EE4C2C&labelColor=282828">
+    
 -->
