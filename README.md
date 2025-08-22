@@ -3,8 +3,9 @@
 <img align="right" width=250px height=250px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <div id="intro" align="left">
-  <p> 🔭 I am currently a third-year student majoring in Computer Science with a focus on Data Science.</p>
-  <p> 🌱 I’m currently learning LangChain, RAG and fine-tuning for LLM.</p>
+  <p> 🌱 I am a Computer Science student specializing in Data Science, with strong interests in NLP, LLMs, Generative AI, and MLOps.</p>
+  <p> 🔭 I am eager to learn and explore how cutting-edge AI models work and how they can create real-world impact.</p>
+  <p> 🤗 I love connecting with people who share the same passion for AI, and it would be great to have more opportunities to connect with everyone.</p>
 </div>
 
 <!--
@@ -44,7 +45,11 @@
     <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-%23005EB8?style=for-the-badge&logo=OpenTelemetry&logoColor=%23F7931E&labelColor=282828"> 
     <img alt="Apache Flink" src="https://img.shields.io/badge/flink-%23E6526F?style=for-the-badge&logo=apacheflink&logoColor=%23E6526F&labelColor=282828"> 
     <img alt="Apache Spark" src="https://img.shields.io/badge/spark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=%23E25A1C&labelColor=282828"> 
-   </div>
+    <img alt="Ollama" src="https://img.shields.io/badge/ollama-ollama?style=for-the-badge&logo=ollama&logoColor=%23ffffff&labelColor=%23282828&color=%23ffffff">
+    <img alt="langchain" src="https://img.shields.io/badge/langchain-none?style=for-the-badge&logo=langchain&logoColor=%23316868&labelColor=%23282828&color=%23316868">
+    <img alt="huggingface" src="https://img.shields.io/badge/HuggingFace-none?style=for-the-badge&logo=Hugging%20Face&logoColor=%23FFD21E&labelColor=%23282828&color=%23FFD21E">
+    <img alt="fastapi" src="https://img.shields.io/badge/fastapi-none?style=for-the-badge&logo=fastapi&logoColor=%23009688&labelColor=%23282828&color=%23009688">
+  </div>
 
   <h3>Databases</h3>
    <div align="center">
@@ -65,9 +70,12 @@
     <img alt="Grafana" src="https://img.shields.io/badge/grafana-%23F46800?style=for-the-badge&logo=grafana&logoColor=%23F46800&labelColor=282828">
     <img alt="Kafka" src="https://img.shields.io/badge/kafka-%23231F20?style=for-the-badge&logo=apache%20kafka&logoColor=white&labelColor=282828">
     <img alt="Aiflow" src="https://img.shields.io/badge/Airflow-%23017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white&labelColor=282828">
+    <img alt="mlflow" src="https://img.shields.io/badge/mlflow-none?style=for-the-badge&logo=mlflow&logoColor=%230194E2&labelColor=%23282828&color=%230194E2">
      <img alt="Trino" src="https://img.shields.io/badge/Trino-%23DD00A1?style=for-the-badge&logo=Trino&logoColor=white&labelColor=282828">
+    <img alt="uv" src="https://img.shields.io/badge/uv-s?style=for-the-badge&logo=uv&logoColor=%23DE5FE9&labelColor=%23282828&color=%23DE5FE9">
     <img alt="Git" src="https://img.shields.io/badge/Git-f05134?style=for-the-badge&logo=git&logoColor=f05134&labelColor=282828">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-f5c022?style=for-the-badge&logo=linux&logoColor=white&labelColor=282828">
+    
    </div>
    
 </div>
